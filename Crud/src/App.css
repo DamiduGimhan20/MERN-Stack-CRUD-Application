@@ -1,0 +1,20 @@
+.topic h1 {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    max-width: 30%; 
+    border: 10px solid transparent;
+    font-size: 2.12rem;
+    background-color: #0d6efd;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .topic h1 {
+        font-size: 1.8rem; 
+    }
+}

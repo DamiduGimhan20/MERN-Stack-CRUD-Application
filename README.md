@@ -30,16 +30,16 @@ MERN stands for <code>MongoDB</code>, <code>Express.js</code>, <code>React</code
     <li>Install dependencies:</li>
     <ul>
         <li>For the Crud:</li>
-        <code>cd client &amp;&amp; npm install</code><br>
+        <code>cd Crud &amp;&amp; npm install</code><br>
         <li>For the server:</li>
         <code>cd server &amp;&amp; npm install</code><br><br>
     </ul>
     <li>Start the development server:</li>
     <ul>
         <li>For the Crud:</li>
-        <code>cd client &amp;&amp; npm start</code><br>
-        <li>For the server:</li>
         <code>cd server &amp;&amp; npm start</code><br><br>
+        <li>For the server:</li>
+        <code>cd Crud &amp;&amp; npm run dev</code><br>
     </ul>
 </ol>
 

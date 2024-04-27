@@ -37,9 +37,9 @@ MERN stands for <code>MongoDB</code>, <code>Express.js</code>, <code>React</code
     <li>Start the development server:</li>
     <ul>
         <li>For the Crud:</li>
-        <code>cd server &amp;&amp; npm start</code><br><br>
+        <code>cd Crud &amp;&amp; npm run dev </code><br><br>
         <li>For the server:</li>
-        <code>cd Crud &amp;&amp; npm run dev</code><br>
+        <code>cd server &amp;&amp; npm start </code><br>
     </ul>
 </ol>
 
